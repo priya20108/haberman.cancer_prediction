@@ -16,4 +16,10 @@ Number of Instances: 306 Number of Attributes: 4 (including the class attribute)
 
 ***Objective: 
 
-conducting EDA and visualizing different variables dependencies.
+conducting EDA and visualizing different variables dependencies. we applied different algorithms to classify our dataset but firstly an exploratory data analysis is needed to understand the data and be efficient. The algorithms applied were the following:
+
+**KNN
+
+**naive bayes
+
+** logistic regrassion
